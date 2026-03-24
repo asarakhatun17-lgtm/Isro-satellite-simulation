@@ -4,5 +4,9 @@ A python and Matplotlib simulation demonstrating Kepler's Laws with Earth, LEO, 
 
 
 
-https://github.com/user-attachments/assets/076dd092-3996-498e-9045-70462b653612
+
+
+
+
+https://github.com/user-attachments/assets/72cbc61f-b12a-49c1-acbd-92fb1af86051
 
